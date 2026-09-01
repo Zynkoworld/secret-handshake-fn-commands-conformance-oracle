@@ -1,0 +1,8 @@
+{"input": "00001", "expect": ["wink"], "task": "secret-handshake", "lang": "python"}
+{"input": "00010", "expect": ["double blink"], "task": "secret-handshake", "lang": "python"}
+{"input": "00100", "expect": ["close your eyes"], "task": "secret-handshake", "lang": "python"}
+{"input": "01000", "expect": ["jump"], "task": "secret-handshake", "lang": "python"}
+{"input": "00011", "expect": ["wink", "double blink"], "task": "secret-handshake", "lang": "python"}
+{"input": "10011", "expect": ["double blink", "wink"], "task": "secret-handshake", "lang": "python"}
+{"input": "11000", "expect": ["jump"], "task": "secret-handshake", "lang": "python"}
+{"input": "10000", "expect": [], "task": "secret-handshake", "lang": "python"}
